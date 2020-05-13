@@ -312,6 +312,7 @@ vector<Process> PV;
 
 int main() {
     freopen("input.txt", "r", stdin);
+    freopen("output.txt", "w", stdout);
 
     string line;
     int init = 1;
